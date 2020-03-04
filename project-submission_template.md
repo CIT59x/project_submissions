@@ -8,7 +8,7 @@ submitted_by: [Your Name]
 
 image : [If you have an image you would like associated with your project, please provide it as well. If you do not, we will add a generic placeholder image.]
 
-categories : [Please choose one from the following list of categories. If you think your project deserves a new category, please BOTH choose one of the following AND suggest a new one]
+categories : [Please choose one from the following list of categories. If you think your project deserves a new category, please suggest a new one]
 
     Web Development
     Mobile Development
@@ -20,7 +20,6 @@ categories : [Please choose one from the following list of categories. If you th
     Embedded Systems
     Games
     Graphic Design
-    Other (suggest your own!)
 
 (optional) suggested_category: [suggest your category here]
 
