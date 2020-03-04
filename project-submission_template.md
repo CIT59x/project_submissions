@@ -1,4 +1,4 @@
-Project Submission Template
+# Project Submission Template
 
 Please use the below format when submitting your project to be featured on the CIT59x website.
 
